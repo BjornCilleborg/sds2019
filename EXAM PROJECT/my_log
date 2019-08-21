@@ -50,3 +50,6 @@ id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code
 2;Tweets;requests;1566394705.999539;-1.2799878120422363;http://www.trumptwitterarchive.com/data/realdonaldtrump/2017.json;http://www.trumptwitterarchive.com/data/realdonaldtrump/2017.json;949464;200;True;
 3;Tweets;requests;1566394708.3293238;-1.6664299964904785;http://www.trumptwitterarchive.com/data/realdonaldtrump/2018.json;http://www.trumptwitterarchive.com/data/realdonaldtrump/2018.json;1482466;200;True;
 4;Tweets;requests;1566394711.0608728;-1.4598605632781982;http://www.trumptwitterarchive.com/data/realdonaldtrump/2019.json;http://www.trumptwitterarchive.com/data/realdonaldtrump/2019.json;1510230;200;True;
+5;Tweets;requests;1566395365.0466316;-1.0350394248962402;http://www.trumptwitterarchive.com/data/realdonaldtrump/2017.json;http://www.trumptwitterarchive.com/data/realdonaldtrump/2017.json;949464;200;True;
+6;Tweets;requests;1566395367.1138937;-1.6507980823516846;http://www.trumptwitterarchive.com/data/realdonaldtrump/2018.json;http://www.trumptwitterarchive.com/data/realdonaldtrump/2018.json;1482466;200;True;
+7;Tweets;requests;1566395369.8243246;-1.6965007781982422;http://www.trumptwitterarchive.com/data/realdonaldtrump/2019.json;http://www.trumptwitterarchive.com/data/realdonaldtrump/2019.json;1510736;200;True;

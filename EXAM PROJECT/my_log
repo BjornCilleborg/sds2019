@@ -88,3 +88,9 @@ id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code
 31;trade_balance;requests;1566469531.4692075;-0.11879730224609375;https://www.census.gov/foreign-trade/balance/c5700.html;https://www.census.gov/foreign-trade/balance/c5700.html;448880;200;True;
 32;trade_balance;requests;1566470005.0809712;-0.12838125228881836;https://www.census.gov/foreign-trade/balance/c5700.html;https://www.census.gov/foreign-trade/balance/c5700.html;448880;200;True;
 33;trade_balance;requests;1566472420.2574666;-0.7721965312957764;https://www.census.gov/foreign-trade/balance/c5700.html;https://www.census.gov/foreign-trade/balance/c5700.html;448880;200;True;
+4;Tweets;requests;1566478702.2928169;-1.450484275817871;http://www.trumptwitterarchive.com/data/realdonaldtrump/2017.json;http://www.trumptwitterarchive.com/data/realdonaldtrump/2017.json;949464;200;True;
+5;Tweets;requests;1566478704.876976;-1.5583045482635498;http://www.trumptwitterarchive.com/data/realdonaldtrump/2018.json;http://www.trumptwitterarchive.com/data/realdonaldtrump/2018.json;1482466;200;True;
+6;Tweets;requests;1566478707.4947095;-1.2013585567474365;http://www.trumptwitterarchive.com/data/realdonaldtrump/2019.json;http://www.trumptwitterarchive.com/data/realdonaldtrump/2019.json;1517566;200;True;
+7;Tweets;requests;1566479869.2069986;-3.1272788047790527;http://www.trumptwitterarchive.com/data/realdonaldtrump/2017.json;http://www.trumptwitterarchive.com/data/realdonaldtrump/2017.json;949464;200;True;
+8;Tweets;requests;1566479873.386322;-2.9223403930664062;http://www.trumptwitterarchive.com/data/realdonaldtrump/2018.json;http://www.trumptwitterarchive.com/data/realdonaldtrump/2018.json;1482466;200;True;
+9;Tweets;requests;1566479877.3636093;-6.235233783721924;http://www.trumptwitterarchive.com/data/realdonaldtrump/2019.json;http://www.trumptwitterarchive.com/data/realdonaldtrump/2019.json;1517567;200;True;
